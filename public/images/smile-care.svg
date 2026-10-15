@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="22" y1="14" x2="458" y2="306" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0FDFA"/>
+      <stop offset="1" stop-color="#CCFBF1"/>
+    </linearGradient>
+    <linearGradient id="tooth" x1="171" y1="55" x2="307" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#E0F2FE"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="87" cy="76" r="32" fill="#99F6E4"/>
+  <circle cx="389" cy="234" r="45" fill="#5EEAD4" fill-opacity=".6"/>
+  <path d="M239 53c-45 0-79 30-79 76 0 31 15 52 25 77 10 23 10 76 32 76 18 0 19-49 30-67 11 18 12 67 30 67 22 0 22-53 32-76 10-25 25-46 25-77 0-46-34-76-79-76-11 0-21 4-29 9-8-5-18-9-29-9Z" fill="url(#tooth)" stroke="#0F766E" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M191 131c12-11 27-17 48-17s36 6 48 17" stroke="#14B8A6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M207 157c9 10 20 15 32 15s23-5 32-15" stroke="#0F766E" stroke-width="7" stroke-linecap="round"/>
+  <path d="m112 157 8 17 18 2-14 12 4 18-16-9-16 9 4-18-14-12 18-2 8-17Zm256-88 6 13 14 2-10 9 3 14-13-7-12 7 2-14-10-9 14-2 6-13Z" fill="#FBBF24"/>
+</svg>
